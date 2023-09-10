@@ -1,9 +1,8 @@
-# 💫 About Me:
+
 
 <h1 align="center">Hi 👋, I'm Miska</h1>
 <h3 align="center">Aspiring to be a Data Scientist</h3>
 
-🌱 I’m currently learning Machine Learning and It's Techniques<br><br>💬 Ask me about NLP<br><br>📫 How to reach me miskawork27@gmail.com<br><br>⚡ Fun fact NLP drives virtual human dialogue.
 
 # 💫 About Me:
 🌱 I’m currently learning Machine Learning and It's Techniques<br><br>💬 Ask me about NLP<br><br>📫 How to reach me miskawork27@gmail.com<br><br>⚡ Fun fact NLP drives virtual human dialogue.
