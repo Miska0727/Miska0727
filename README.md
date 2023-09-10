@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Miska</h1>
+<h1 align="center">Hi 👋, I'm Miskaa</h1>
 <h3 align="center">Aspiring to be a Data Scientist</h3>
 
 
